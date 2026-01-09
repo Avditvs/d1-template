@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f2a0ecfb-f244-4095-8969-39598a4f1568",
+			"database_name": "mushroom-factory-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
